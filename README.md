@@ -1,2 +1,2 @@
-# Obstacle-avoidance-robot-
-This project is an autonomous robot that detects and avoids obstacles using ultrasonic sensor. The microcontroller processes sensor data and controls the motors to change direction when an obstacle is detected, allowing the robot to move safely
+# Obstacle-avoidance-robot
+This code controls a robot that follows a line using IR sensors and avoids obstacles using an ultrasonic sensor. It controls motors through a motor driver, displays movement status on an LCD, and activates a buzzer when obstacles are detected.
